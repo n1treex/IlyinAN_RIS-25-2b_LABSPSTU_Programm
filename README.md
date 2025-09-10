@@ -6,11 +6,11 @@ jhasdjkjs;lda
 ## Zagolovok 2
 ### Zagolovok 3
 
-* Kursivniy tekst *
+*Kursivniy tekst*
   
-** Big tekst **
+**Big tekst**
 
-*** Big kursivniy tekst ***
+***Big kursivniy tekst***
 
 ban*a*n
 
