@@ -56,3 +56,6 @@ Images
 
 ![Флаг](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs3Nv1dUHgTVa6Ic6VI-NH3BTQixaZmoLItQ&s "Флаг")
 
+```Python
+# print('Hello world')
+```
