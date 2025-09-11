@@ -18,3 +18,26 @@ ban*a*n
 
 > Citata
 >> Citata
+
+Spisok
+1. Perviy
+2. Vtoroy
+3. Tretiy
+
+Nenumerovanniy spisok
+
+* tekst
+* tekst2
+
+Checkbox
+
+- [tekst]
+- [tekst2]
+
+Vlojheniy spisok
+1. Tekst1
+   1. Tekst11
+   2. Tekst12
+2. Tekst2
+   1. Tekst21
+   2. Tekst22
