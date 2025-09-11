@@ -43,7 +43,11 @@ Vlojheniy spisok
    2. Tekst22
 
 Ssilki
+
 <https://pstu.ru/>
+
 [Ssilka](https://pstu.ru/ "Политех")
+
 [Tekst][https://pstu.ru/]
+
 [https://pstu.ru/]: sadjlk "saffa"
