@@ -46,8 +46,8 @@ Ssilki
 
 <https://pstu.ru/>
 
-[Ssilka](https://pstu.ru/ "Политех")
+[Политех](https://pstu.ru/ "Ссылка на сайт Политеха")
 
-[Tekst][https://pstu.ru/]
+[Политех][https://pstu.ru/]
 
-[https://pstu.ru/]: sadjlk "saffa"
+[https://pstu.ru/]: Политех "Ссылка на Политех"
