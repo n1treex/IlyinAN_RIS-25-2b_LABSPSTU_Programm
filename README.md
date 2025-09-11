@@ -31,8 +31,8 @@ Nenumerovanniy spisok
 
 Checkbox
 
-- [tekst]
-- [tekst2]
+- [X] Tekst1
+- [ ] Teskt2
 
 Vlojheniy spisok
 1. Tekst1
