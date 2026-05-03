@@ -23,8 +23,8 @@ public:
     Pair& operator=(const Pair&);
     
     // Операции сравнения (добавлены const)
-    bool operator>(const Pair& p) const;  // <-- const важен!
-    bool operator<(const Pair& p) const;  // <-- const важен!
+    bool operator>(const Pair& p) const;  
+    bool operator<(const Pair& p) const; 
     
     // Операции декремента
     Pair& operator--();       // Префиксная: --first
