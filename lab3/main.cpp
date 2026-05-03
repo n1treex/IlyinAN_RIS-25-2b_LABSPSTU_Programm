@@ -42,5 +42,5 @@ int main()
         cout << "a = b" << endl;
     }
 
-    return 0;  // <-- точка с запятой обязательна
+    return 0;  
 }
