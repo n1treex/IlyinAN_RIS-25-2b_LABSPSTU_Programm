@@ -9,7 +9,7 @@ int main()
 {
     setlocale(LC_ALL, "Russian");
 
-    Vector v(5); // Вектор из 5 элементов
+    Vector v(5); 
 
     cout << "Enter object Person:" << endl;
     Person p;
@@ -20,16 +20,16 @@ int main()
     cin >> e;
 
     Object* ptr = &p;
-    v.Add(ptr); // добавляем базовый класс в вектор
+    v.Add(ptr); 
 
     ptr = &e;
-    v.Add(ptr); // добавляем производный класс в вектор
+    v.Add(ptr); 
 
     cout << "\n--- Output elements ---";
     cout << v;
 
-    // Демонстрация уникального метода производного класса
-    double premium = 20.0; // 20% премия
+  
+    double premium = 20.0;
     cout << "\n--- Raschet zarplati ---" << endl;
     cout << "Zarplata sotrudnika " << e.GetName()
          << " s premiey " << premium << "% sostavit: "
