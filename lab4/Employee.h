@@ -9,13 +9,13 @@ public:
     Employee(string, int, string, double);
     Employee(const Employee&);
 
-    int GetGruz() { return gruz; }        // В методичке у Lorry был метод Get_gruz()
+    int GetGruz() { return gruz; }        
     string GetPosition() { return position; }
     double GetSalary() { return salary; }
 
     void SetPosition(string);
     void SetSalary(double);
-    void SetGruz(int);                     // Для соответствия стилю методички
+    void SetGruz(int);                
 
     double CalculateTotalSalary(double);
 
@@ -27,5 +27,5 @@ public:
 protected:
     string position;
     double salary;
-    int gruz;                              // Как в методичке у Lorry
+    int gruz;                           
 };
