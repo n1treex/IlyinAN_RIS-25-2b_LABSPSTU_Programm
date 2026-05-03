@@ -18,7 +18,7 @@ Employee::Employee(string N, int A, string P, double S) : Person(N, A)
     gruz = 0;
 }
 
-// Конструктор копирования ТОЧНО как в методичке (прямой доступ к protected полям)
+
 Employee::Employee(const Employee& e)
 {
     name = e.name;
