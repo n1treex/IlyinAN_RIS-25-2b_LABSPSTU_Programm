@@ -8,5 +8,5 @@ public:
     virtual void Show() = 0;
     virtual void Input() = 0;
     virtual void HandleEvent(const TEvent& e) = 0;
-    virtual int GetAge() = 0; // Необходимо для вычисления среднего возраста
+    virtual int GetAge() = 0; 
 };
