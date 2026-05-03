@@ -17,7 +17,7 @@ void Person::HandleEvent(const TEvent& e) {
     if (e.what == evMessage) {
         switch (e.command) {
             case cmAverageAge:
-                // В данной лаб. работе объекты могут просто подтверждать участие
+           
                 break;
         }
     }
