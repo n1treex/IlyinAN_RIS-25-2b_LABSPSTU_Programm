@@ -35,8 +35,8 @@ ostream& operator<<(ostream& out, const Vector& v)
     Object** p = v.beg;
     for (int i = 0; i < v.cur; i++)
     {
-        (*p)->Show(); // вызов метода Show() (позднее связывание)
-        p++; // передвигаем указатель на следующий объект
+        (*p)->Show(); 
+        p++; 
     }
     return out;
 }
